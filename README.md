@@ -1,8 +1,18 @@
 # project_playlist
 
-A new Flutter project.
+A JSON format file data display in screen Flutter project.
 
-## Getting Started
+## Output screen
+Mobile view
+
+![project_playlist1](https://github.com/hk1728557/JsonDataPlayList/assets/90959033/3c4ca82e-a5b0-4f11-a86d-3316848a6d6b)
+
+Desktop view
+
+![project_playlist2](https://github.com/hk1728557/JsonDataPlayList/assets/90959033/61573a98-a54d-48d3-a3c2-2da70f34eb66)
+
+
+
 
 This project is a starting point for a Flutter application.
 
